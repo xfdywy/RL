@@ -15,3 +15,7 @@ Papers:
 Thanks,
 Tao 
 
+http://mnemstudio.org/path-finding-q-learning-tutorial.htm
+https://github.com/matthiasplappert/keras-rl
+https://zhuanlan.zhihu.com/p/20885568
+https://classroom.udacity.com/courses/ud600/lessons/4676850295/concepts/46733448110923
