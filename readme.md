@@ -11,6 +11,7 @@ Tutorial:
  
 Papers:
 1.	https://github.com/junhyukoh/deep-reinforcement-learning-papers  
+2. https://github.com/muupan/deep-reinforcement-learning-papers
 
 Thanks,
 Tao 
