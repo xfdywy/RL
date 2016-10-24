@@ -1,0 +1,13 @@
+\begin{thebibliography}{1}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\providecommand{\bibinfo}[2]{#2}
+\ifx\xfnm\relax \def\xfnm[#1]{\unskip,\space#1}\fi
+%Type = Article
+\bibitem[{Sutton(1988)}]{Sutton1988}
+\bibinfo{author}{R.~S. Sutton},
+\newblock \bibinfo{title}{{Learning to Predict by the Method of Temporal
+  Differences}},
+\newblock \bibinfo{journal}{Machine Learning} \bibinfo{volume}{3}
+  (\bibinfo{year}{1988}) \bibinfo{pages}{9--44}.
+
+\end{thebibliography}
