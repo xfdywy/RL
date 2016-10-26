@@ -1,0 +1,11 @@
+\begin{thebibliography}{1}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\providecommand{\bibinfo}[2]{#2}
+\ifx\xfnm\relax \def\xfnm[#1]{\unskip,\space#1}\fi
+%Type = Misc
+\bibitem[{Sutton and Barto(2011)}]{sutton2011reinforcement}
+\bibinfo{author}{R.~S. Sutton}, \bibinfo{author}{A.~G. Barto},
+  \bibinfo{title}{Reinforcement learning: An introduction},
+  \bibinfo{year}{2011}.
+
+\end{thebibliography}

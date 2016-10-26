@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.9.5)  18 OCT 2016 20:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.9.5)  25 OCT 2016 21:23
 entering extended mode
 **./myrldocument.tex
 (myrldocument.tex
@@ -98,17 +98,6 @@ LaTeX Info: Redefining \cite on input line 694.
 
 \appnamewidth=\dimen109
 )
-(D:\sofeware\CTEX\MiKTeX\tex\latex\amsfonts\amssymb.sty
-Package: amssymb 2013/01/14 v3.01 AMS font symbols
-
-(D:\sofeware\CTEX\MiKTeX\tex\latex\amsfonts\amsfonts.sty
-Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
-\@emptytoks=\toks17
-\symAMSa=\mathgroup4
-\symAMSb=\mathgroup5
-LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
-(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-))
 (D:\sofeware\CTEX\MiKTeX\tex\latex\amsmath\amsmath.sty
 Package: amsmath 2016/03/10 v2.15b AMS math features
 \@mathmargin=\skip47
@@ -119,7 +108,7 @@ Package: amstext 2000/06/29 v2.01 AMS text
 
 (D:\sofeware\CTEX\MiKTeX\tex\latex\amsmath\amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks18
+\@emptytoks=\toks17
 \ex@=\dimen110
 ))
 (D:\sofeware\CTEX\MiKTeX\tex\latex\amsmath\amsbsy.sty
@@ -149,150 +138,268 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 635.
 \dotsspace@=\muskip10
 \c@parentequation=\count102
 \dspbrk@lvl=\count103
-\tag@help=\toks19
+\tag@help=\toks18
 \row@=\count104
 \column@=\count105
 \maxfields@=\count106
-\andhelp@=\toks20
+\andhelp@=\toks19
 \eqnshift@=\dimen113
 \alignsep@=\dimen114
 \tagshift@=\dimen115
 \tagwidth@=\dimen116
 \totwidth@=\dimen117
 \lineht@=\dimen118
-\@envbody=\toks21
+\@envbody=\toks20
 \multlinegap=\skip48
 \multlinetaggap=\skip49
-\mathdisplay@stack=\toks22
+\mathdisplay@stack=\toks21
 LaTeX Info: Redefining \[ on input line 2739.
 LaTeX Info: Redefining \] on input line 2740.
-) (myrldocument.aux)
-\openout1 = `myrldocument.aux'.
-
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 82.
-LaTeX Font Info:    ... okay on input line 82.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 82.
-LaTeX Font Info:    ... okay on input line 82.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 82.
-LaTeX Font Info:    ... okay on input line 82.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 82.
-LaTeX Font Info:    ... okay on input line 82.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 82.
-LaTeX Font Info:    ... okay on input line 82.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 82.
-LaTeX Font Info:    ... okay on input line 82.
-
-(D:\sofeware\CTEX\UserData\tex\context\base\supp-pdf.mkii
-[Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count107
-\scratchdimen=\dimen119
-\scratchbox=\box32
-\nofMPsegments=\count108
-\nofMParguments=\count109
-\everyMPshowfont=\toks23
-\MPscratchCnt=\count110
-\MPscratchDim=\dimen120
-\MPnumerator=\count111
-\makeMPintoPDFobject=\count112
-\everyMPtoPDFconversion=\toks24
-) (D:\sofeware\CTEX\MiKTeX\tex\generic\oberdiek\pdftexcmds.sty
-Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
 )
+(D:\sofeware\CTEX\MiKTeX\tex\latex\amscls\amsthm.sty
+Package: amsthm 2015/03/04 v2.20.2
+\thm@style=\toks22
+\thm@bodyfont=\toks23
+\thm@headfont=\toks24
+\thm@notefont=\toks25
+\thm@headpunct=\toks26
+\thm@preskip=\skip50
+\thm@postskip=\skip51
+\thm@headsep=\skip52
+\dth@everypar=\toks27
+LaTeX Info: Redefining \qed on input line 264.
+)
+(D:\sofeware\CTEX\MiKTeX\tex\latex\hyperref\hyperref.sty
+Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
 
-(D:\sofeware\CTEX\MiKTeX\tex\generic\oberdiek\ifluatex.sty
+(D:\sofeware\CTEX\MiKTeX\tex\generic\oberdiek\hobsub-hyperref.sty
+Package: hobsub-hyperref 2012/04/25 v1.12 Bundle oberdiek, subset hyperref (HO)
+
+
+(D:\sofeware\CTEX\MiKTeX\tex\generic\oberdiek\hobsub-generic.sty
+Package: hobsub-generic 2012/04/25 v1.12 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/04/25 v1.12 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
 Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
-)
-(D:\sofeware\CTEX\MiKTeX\tex\generic\oberdiek\ifpdf.sty
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
 Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
 Package ifpdf Info: pdfTeX in PDF mode is detected.
-)
-Package pdftexcmds Info: LuaTeX not detected.
-Package pdftexcmds Info: \pdf@primitive is available.
-Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode found.
-)
-(D:\sofeware\CTEX\MiKTeX\tex\latex\oberdiek\epstopdf-base.sty
-Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
-
-(D:\sofeware\CTEX\MiKTeX\tex\latex\oberdiek\grfext.sty
-Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
-
-(D:\sofeware\CTEX\MiKTeX\tex\generic\oberdiek\kvdefinekeys.sty
-Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
-))
-(D:\sofeware\CTEX\MiKTeX\tex\latex\oberdiek\kvoptions.sty
-Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
-
-(D:\sofeware\CTEX\MiKTeX\tex\generic\oberdiek\kvsetkeys.sty
-Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
-
-(D:\sofeware\CTEX\MiKTeX\tex\generic\oberdiek\etexcmds.sty
 Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
 Package etexcmds Info: Could not find \expanded.
 (etexcmds)             That can mean that you are not using pdfTeX 1.50 or
 (etexcmds)             that some package has redefined \expanded.
 (etexcmds)             In the latter case, load this package earlier.
-)))
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+)
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2011/06/24 v1.1 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+)
+(D:\sofeware\CTEX\MiKTeX\tex\generic\ifxetex\ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(D:\sofeware\CTEX\MiKTeX\tex\latex\oberdiek\auxhook.sty
+Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+)
+(D:\sofeware\CTEX\MiKTeX\tex\latex\oberdiek\kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+)
+\@linkdim=\dimen119
+\Hy@linkcounter=\count107
+\Hy@pagecounter=\count108
+
+(D:\sofeware\CTEX\MiKTeX\tex\latex\hyperref\pd1enc.def
+File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count109
+
+(D:\sofeware\CTEX\MiKTeX\tex\latex\00miktex\hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4443.
+Package hyperref Info: Link nesting OFF on input line 4448.
+Package hyperref Info: Hyper index ON on input line 4451.
+Package hyperref Info: Plain pages OFF on input line 4458.
+Package hyperref Info: Backreferencing OFF on input line 4463.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4688.
+\c@Hy@tempcnt=\count110
+
+(D:\sofeware\CTEX\MiKTeX\tex\latex\url\url.sty
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5041.
+\XeTeXLinkMargin=\dimen120
+\Fld@menulength=\count111
+\Field@Width=\dimen121
+\Fld@charsize=\dimen122
+Package hyperref Info: Hyper figures OFF on input line 6295.
+Package hyperref Info: Link nesting OFF on input line 6300.
+Package hyperref Info: Hyper index ON on input line 6303.
+Package hyperref Info: backreferencing OFF on input line 6310.
+Package hyperref Info: Link coloring OFF on input line 6315.
+Package hyperref Info: Link coloring with OCG OFF on input line 6320.
+Package hyperref Info: PDF/A mode OFF on input line 6325.
+LaTeX Info: Redefining \ref on input line 6365.
+LaTeX Info: Redefining \pageref on input line 6369.
+\Hy@abspage=\count112
+\c@Item=\count113
+\c@Hfootnote=\count114
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+(D:\sofeware\CTEX\MiKTeX\tex\latex\hyperref\hpdftex.def
+File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
+\Fld@listcount=\count115
+\c@bookmark@seq@number=\count116
+
+(D:\sofeware\CTEX\MiKTeX\tex\latex\oberdiek\rerunfilecheck.sty
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip53
+)
+\c@theorem=\count117
+\c@corollary=\count118
+\c@definition=\count119
+
+(myrldocument.aux)
+\openout1 = `myrldocument.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+ (D:\sofeware\CTEX\UserData\tex\context\base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count120
+\scratchdimen=\dimen123
+\scratchbox=\box32
+\nofMPsegments=\count121
+\nofMParguments=\count122
+\everyMPshowfont=\toks28
+\MPscratchCnt=\count123
+\MPscratchDim=\dimen124
+\MPnumerator=\count124
+\makeMPintoPDFobject=\count125
+\everyMPtoPDFconversion=\toks29
+) (D:\sofeware\CTEX\MiKTeX\tex\latex\oberdiek\epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(D:\sofeware\CTEX\MiKTeX\tex\latex\oberdiek\grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+)
 Package grfext Info: Graphics extension search list:
 (grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 452.
 )
-LaTeX Font Info:    Try loading font information for U+msa on input line 132.
+\AtBeginShipoutBox=\box33
+Package hyperref Info: Link coloring OFF on input line 96.
 
-(D:\sofeware\CTEX\MiKTeX\tex\latex\amsfonts\umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Try loading font information for U+msb on input line 132.
+(D:\sofeware\CTEX\MiKTeX\tex\latex\hyperref\nameref.sty
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
-(D:\sofeware\CTEX\MiKTeX\tex\latex\amsfonts\umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+(D:\sofeware\CTEX\MiKTeX\tex\generic\oberdiek\gettitlestring.sty
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 146.
+\c@section@level=\count126
+)
+LaTeX Info: Redefining \ref on input line 96.
+LaTeX Info: Redefining \pageref on input line 96.
+LaTeX Info: Redefining \nameref on input line 96.
+
+(myrldocument.out) (myrldocument.out)
+\@outlinefile=\write4
+\openout4 = `myrldocument.out'.
+
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 160.
 
 
 (D:\sofeware\CTEX\MiKTeX\tex\latex\base\omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 146.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 160.
+ [1
+
+
+{D:/sofeware/CTEX/UserData/pdftex/config/pdftex.map{UGBK.sfd}{Unicode.sfd}}]
+<placeholder.jpg, id=44, 351.3125pt x 193.72375pt>
+File: placeholder.jpg Graphic file (type jpg)
+ <use placeholder.jpg>
+Package pdftex.def Info: placeholder.jpg used on input line 215.
+(pdftex.def)             Requested size: 155.99762pt x 86.025pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[1
-
-
-{D:/sofeware/CTEX/UserData/pdftex/config/pdftex.map{UGBK.sfd}{Unicode.sfd}}]
-<placeholder.jpg, id=13, 351.3125pt x 193.72375pt>
-File: placeholder.jpg Graphic file (type jpg)
- <use placeholder.jpg>
-Package pdftex.def Info: placeholder.jpg used on input line 201.
-(pdftex.def)             Requested size: 155.99762pt x 86.025pt.
-
-[2 <./placeholder.jpg>] (myrldocument.bbl) [3] (myrldocument.aux) ) 
+[2] [3 <./placeholder.jpg>] (myrldocument.bbl)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 287.
+ [4]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 287.
+ (myrldocument.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 287.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 287.
+Package rerunfilecheck Info: File `myrldocument.out' has not changed.
+(rerunfilecheck)             Checksum: E05EEE7CF3D5BDFA94EEAC2391A87774;416.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 287.
+ ) 
 Here is how much of TeX's memory you used:
- 3005 strings out of 495237
- 37566 string characters out of 3182224
- 99147 words of memory out of 3000000
- 6230 multiletter control sequences out of 15000+200000
- 10274 words of font info for 38 fonts, out of 3000000 for 9000
+ 6366 strings out of 495237
+ 89541 string characters out of 3182224
+ 179016 words of memory out of 3000000
+ 9557 multiletter control sequences out of 15000+200000
+ 9039 words of font info for 32 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
- 38i,8n,30p,731b,227s stack positions out of 5000i,500n,10000p,200000b,50000s
-<D:/sofeware
-/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><D:/sofeware/CTEX/MiKTeX
-/fonts/type1/public/amsfonts/cm/cmmi12.pfb><D:/sofeware/CTEX/MiKTeX/fonts/type1
-/public/amsfonts/cm/cmmi8.pfb><D:/sofeware/CTEX/MiKTeX/fonts/type1/public/amsfo
-nts/cm/cmr10.pfb><D:/sofeware/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.
-pfb><D:/sofeware/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><D:/sofew
-are/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><D:/sofeware/CTEX/MiKTe
-X/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/sofeware/CTEX/MiKTeX/fonts/type
-1/public/amsfonts/cm/cmti10.pfb><D:/sofeware/CTEX/MiKTeX/fonts/type1/public/ams
-fonts/cm/cmti12.pfb>
-Output written on myrldocument.pdf (3 pages, 142385 bytes).
+ 34i,8n,30p,691b,454s stack positions out of 5000i,500n,10000p,200000b,50000s
+<D:/sofeware/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><D:/sofewa
+re/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><D:/sofeware/CTEX/MiKT
+eX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><D:/sofeware/CTEX/MiKTeX/fonts/type
+1/public/amsfonts/cm/cmr10.pfb><D:/sofeware/CTEX/MiKTeX/fonts/type1/public/amsf
+onts/cm/cmr12.pfb><D:/sofeware/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17
+.pfb><D:/sofeware/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><D:/sofew
+are/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/sofeware/CTEX/MiK
+TeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><D:/sofeware/CTEX/MiKTeX/fonts/ty
+pe1/public/amsfonts/cm/cmti12.pfb>
+Output written on myrldocument.pdf (4 pages, 151738 bytes).
 PDF statistics:
- 53 PDF objects out of 1000 (max. 8388607)
- 0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 111 PDF objects out of 1000 (max. 8388607)
+ 23 named destinations out of 1000 (max. 500000)
+ 62 words of extra memory for PDF output out of 10000 (max. 10000000)
 

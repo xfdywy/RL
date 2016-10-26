@@ -1,3 +1,6 @@
 This is BibTeX, Version 0.99dThe top-level auxiliary file: myrldocument.aux
 The style file: model1-num-names.bst
-Database file #1: sample.bib
+Database file #1: ./ref/sample.bib
+Database file #2: ./ref/counterexample.bib
+Warning--empty year in Dimitri; set to ????
+(There was 1 warning)
