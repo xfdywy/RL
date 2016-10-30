@@ -8,11 +8,11 @@
   \bibinfo{title}{Reinforcement learning: An introduction},
   \bibinfo{year}{2011}.
 %Type = Article
-\bibitem[{Bertsekas(1995)}]{bertsekas1995counterexample}
-\bibinfo{author}{D.~P. Bertsekas},
-\newblock \bibinfo{title}{A counterexample to temporal differences learning},
-\newblock \bibinfo{journal}{Neural Computation} \bibinfo{volume}{7}
-  (\bibinfo{year}{1995}) \bibinfo{pages}{270--279}.
+\bibitem[{Tsitsiklis and Roy(1996)}]{Tsitsiklis1996}
+\bibinfo{author}{J.~Tsitsiklis}, \bibinfo{author}{B.~V. Roy},
+\newblock \bibinfo{title}{{Feature-based methods for large scale dynamic
+  programming}},
+\newblock \bibinfo{journal}{Machine Learning}  (\bibinfo{year}{1996}).
 %Type = Article
 \bibitem[{Dimitri(????)}]{Dimitri}
 \bibinfo{author}{P.~Dimitri},

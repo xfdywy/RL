@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.9.5)  30 OCT 2016 15:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.9.5)  30 OCT 2016 15:25
 entering extended mode
-**./myrldocument.tex
-(myrldocument.tex
+**"./convergence draft.tex"
+("convergence draft.tex"
 LaTeX2e <2016/03/31>
 Babel <3.9q> and hyphenation patterns for 1 language(s) loaded.
 (elsarticle.cls
@@ -85,7 +85,7 @@ File: upsy.fd 2001/06/04 font definitions for U/psy.
 \@enLab=\toks16
 \@sep=\skip43
 \@@sep=\skip44
- (myrldocument.spl)
+ ("convergence draft.spl")
 (D:\sofeware\CTEX\MiKTeX\tex\latex\natbib\natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip45
@@ -94,10 +94,21 @@ LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count94
 )
 \splwrite=\write3
-\openout3 = `myrldocument.spl'.
+\openout3 = `"convergence draft.spl"'.
 
 \appnamewidth=\dimen109
 )
+(D:\sofeware\CTEX\MiKTeX\tex\latex\amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(D:\sofeware\CTEX\MiKTeX\tex\latex\amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks17
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
 (D:\sofeware\CTEX\MiKTeX\tex\latex\amsmath\amsmath.sty
 Package: amsmath 2016/03/10 v2.15b AMS math features
 \@mathmargin=\skip47
@@ -108,7 +119,7 @@ Package: amstext 2000/06/29 v2.01 AMS text
 
 (D:\sofeware\CTEX\MiKTeX\tex\latex\amsmath\amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks17
+\@emptytoks=\toks18
 \ex@=\dimen110
 ))
 (D:\sofeware\CTEX\MiKTeX\tex\latex\amsmath\amsbsy.sty
@@ -138,35 +149,35 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 635.
 \dotsspace@=\muskip10
 \c@parentequation=\count102
 \dspbrk@lvl=\count103
-\tag@help=\toks18
+\tag@help=\toks19
 \row@=\count104
 \column@=\count105
 \maxfields@=\count106
-\andhelp@=\toks19
+\andhelp@=\toks20
 \eqnshift@=\dimen113
 \alignsep@=\dimen114
 \tagshift@=\dimen115
 \tagwidth@=\dimen116
 \totwidth@=\dimen117
 \lineht@=\dimen118
-\@envbody=\toks20
+\@envbody=\toks21
 \multlinegap=\skip48
 \multlinetaggap=\skip49
-\mathdisplay@stack=\toks21
+\mathdisplay@stack=\toks22
 LaTeX Info: Redefining \[ on input line 2739.
 LaTeX Info: Redefining \] on input line 2740.
 )
 (D:\sofeware\CTEX\MiKTeX\tex\latex\amscls\amsthm.sty
 Package: amsthm 2015/03/04 v2.20.2
-\thm@style=\toks22
-\thm@bodyfont=\toks23
-\thm@headfont=\toks24
-\thm@notefont=\toks25
-\thm@headpunct=\toks26
+\thm@style=\toks23
+\thm@bodyfont=\toks24
+\thm@headfont=\toks25
+\thm@notefont=\toks26
+\thm@headpunct=\toks27
 \thm@preskip=\skip50
 \thm@postskip=\skip51
 \thm@headsep=\skip52
-\dth@everypar=\toks27
+\dth@everypar=\toks28
 LaTeX Info: Redefining \qed on input line 264.
 )
 (D:\sofeware\CTEX\MiKTeX\tex\latex\hyperref\hyperref.sty
@@ -288,36 +299,37 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 \c@corollary=\count118
 \c@definition=\count119
 
-(myrldocument.aux)
-\openout1 = `myrldocument.aux'.
+("convergence draft.aux")
+\openout1 = `"convergence draft.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 96.
-LaTeX Font Info:    ... okay on input line 96.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 96.
-LaTeX Font Info:    ... okay on input line 96.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 96.
-LaTeX Font Info:    ... okay on input line 96.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 96.
-LaTeX Font Info:    ... okay on input line 96.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 96.
-LaTeX Font Info:    ... okay on input line 96.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 96.
-LaTeX Font Info:    ... okay on input line 96.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 96.
-LaTeX Font Info:    ... okay on input line 96.
- (D:\sofeware\CTEX\UserData\tex\context\base\supp-pdf.mkii
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+
+(D:\sofeware\CTEX\UserData\tex\context\base\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count120
 \scratchdimen=\dimen123
 \scratchbox=\box32
 \nofMPsegments=\count121
 \nofMParguments=\count122
-\everyMPshowfont=\toks28
+\everyMPshowfont=\toks29
 \MPscratchCnt=\count123
 \MPscratchDim=\dimen124
 \MPnumerator=\count124
 \makeMPintoPDFobject=\count125
-\everyMPtoPDFconversion=\toks29
+\everyMPtoPDFconversion=\toks30
 ) (D:\sofeware\CTEX\MiKTeX\tex\latex\oberdiek\epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 
@@ -330,7 +342,7 @@ G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 452.
 )
 \AtBeginShipoutBox=\box33
-Package hyperref Info: Link coloring OFF on input line 96.
+Package hyperref Info: Link coloring OFF on input line 93.
 
 (D:\sofeware\CTEX\MiKTeX\tex\latex\hyperref\nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -340,57 +352,113 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count126
 )
-LaTeX Info: Redefining \ref on input line 96.
-LaTeX Info: Redefining \pageref on input line 96.
-LaTeX Info: Redefining \nameref on input line 96.
+LaTeX Info: Redefining \ref on input line 93.
+LaTeX Info: Redefining \pageref on input line 93.
+LaTeX Info: Redefining \nameref on input line 93.
 
-(myrldocument.out) (myrldocument.out)
+("convergence draft.out") ("convergence draft.out")
 \@outlinefile=\write4
-\openout4 = `myrldocument.out'.
+\openout4 = `"convergence draft.out"'.
 
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 160.
+LaTeX Font Info:    Try loading font information for U+msa on input line 143.
 
-
-(D:\sofeware\CTEX\MiKTeX\tex\latex\base\omscmr.fd
-File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+(D:\sofeware\CTEX\MiKTeX\tex\latex\amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 160.
- [1
+LaTeX Font Info:    Try loading font information for U+msb on input line 143.
+
+(D:\sofeware\CTEX\MiKTeX\tex\latex\amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+
+Package natbib Warning: Citation `Sutton1988' on page 1 undefined on input line
+ 151.
 
 
-{D:/sofeware/CTEX/UserData/pdftex/config/pdftex.map{UGBK.sfd}{Unicode.sfd}}] (m
-yrldocument.bbl [2])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 260.
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\begingroup' on input line 151.
 
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\<let>-command' on input line 151.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\NAT@ctype' on input line 151.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\z@' on input line 151.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\let' on input line 151.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\let' on input line 151.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\new@ifnextchar' on input line 151.
+
+
+Overfull \hbox (1.6163pt too wide) in paragraph at lines 157--158
+\OT1/cmr/m/it/12 ues $[]$ , and for any lin-ear-ly in-de-pen-den-t set of ob-se
+r-va-tion vectors$\OMS/cmsy/m/n/12 f[]g$\OT1/cmr/m/it/12 ,
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[1
+
+
+{D:/sofeware/CTEX/UserData/pdftex/config/pdftex.map{UGBK.sfd}{Unicode.sfd}}]
+<placeholder.jpg, id=33, 351.3125pt x 193.72375pt>
+File: placeholder.jpg Graphic file (type jpg)
+ <use placeholder.jpg>
+Package pdftex.def Info: placeholder.jpg used on input line 221.
+(pdftex.def)             Requested size: 155.99762pt x 86.025pt.
+
+[2 <./placeholder.jpg>] ("convergence draft.bbl"
+
+Package natbib Warning: Empty `thebibliography' environment on input line 6.
+
+)
+
+Package natbib Warning: There were undefined citations.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 280.
 [3]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 260.
- (myrldocument.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 260.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 260.
-Package rerunfilecheck Info: File `myrldocument.out' has not changed.
-(rerunfilecheck)             Checksum: 18D74267C2CF26795FC17D8B81596CD0;352.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 260.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 280.
+ ("convergence draft.aux")
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 280.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 280.
+Package rerunfilecheck Info: File `"convergence draft".out' has not changed.
+(rerunfilecheck)             Checksum: 363E70B7898E37E91BED17B3F3962FEB;256.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 280.
  ) 
 Here is how much of TeX's memory you used:
- 6347 strings out of 495237
- 89262 string characters out of 3182224
- 177985 words of memory out of 3000000
- 9546 multiletter control sequences out of 15000+200000
- 9039 words of font info for 32 fonts, out of 3000000 for 9000
+ 6603 strings out of 495237
+ 91825 string characters out of 3182224
+ 179350 words of memory out of 3000000
+ 9790 multiletter control sequences out of 15000+200000
+ 10274 words of font info for 38 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
- 34i,8n,30p,244b,425s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 34i,8n,32p,738b,329s stack positions out of 5000i,500n,10000p,200000b,50000s
 <D:/sofeware/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><D:/sofewa
 re/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><D:/sofeware/CTEX/MiKT
 eX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><D:/sofeware/CTEX/MiKTeX/fonts/type
-1/public/amsfonts/cm/cmr12.pfb><D:/sofeware/CTEX/MiKTeX/fonts/type1/public/amsf
-onts/cm/cmr17.pfb><D:/sofeware/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.
-pfb><D:/sofeware/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/sofe
-ware/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><D:/sofeware/CTEX/Mi
-KTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on myrldocument.pdf (3 pages, 112100 bytes).
+1/public/amsfonts/cm/cmr10.pfb><D:/sofeware/CTEX/MiKTeX/fonts/type1/public/amsf
+onts/cm/cmr12.pfb><D:/sofeware/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17
+.pfb><D:/sofeware/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><D:/sofew
+are/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/sofeware/CTEX/MiK
+TeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><D:/sofeware/CTEX/MiKTeX/fonts/ty
+pe1/public/amsfonts/cm/cmti12.pfb>
+Output written on "convergence draft.pdf" (3 pages, 151205 bytes).
 PDF statistics:
- 94 PDF objects out of 1000 (max. 8388607)
- 18 named destinations out of 1000 (max. 500000)
- 49 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 86 PDF objects out of 1000 (max. 8388607)
+ 13 named destinations out of 1000 (max. 500000)
+ 38 words of extra memory for PDF output out of 10000 (max. 10000000)
 
