@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.9.5)  30 OCT 2016 15:58
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.9.5)  30 OCT 2016 21:29
 entering extended mode
-**"./New Text Document.tex"
-("New Text Document.tex"
+**./rldocument.tex
+(rldocument.tex
 LaTeX2e <2016/03/31>
 Babel <3.9q> and hyphenation patterns for 1 language(s) loaded.
 (D:\sofeware\CTEX\MiKTeX\tex\latex\base\article.cls
@@ -217,27 +217,78 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip49
 )
-\c@thm=\count109
+(D:\sofeware\CTEX\MiKTeX\tex\latex\geometry\geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+\Gm@cnth=\count109
+\Gm@cntv=\count110
+\c@Gm@tempcnt=\count111
+\Gm@bindingoffset=\dimen116
+\Gm@wd@mp=\dimen117
+\Gm@odd@mp=\dimen118
+\Gm@even@mp=\dimen119
+\Gm@layoutwidth=\dimen120
+\Gm@layoutheight=\dimen121
+\Gm@layouthoffset=\dimen122
+\Gm@layoutvoffset=\dimen123
+\Gm@dimlist=\toks26
 
-("New Text Document.aux")
-\openout1 = `"New Text Document.aux"'.
+(D:\sofeware\CTEX\MiKTeX\tex\latex\geometry\geometry.cfg)
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
+Package geometry Warning: Over-specification in `h'-direction.
+    `width' (0.0pt) is ignored.
+
+
+Package geometry Warning: Over-specification in `v'-direction.
+    `height' (0.0pt) is ignored.
+
+) (D:\sofeware\CTEX\MiKTeX\tex\latex\natbib\natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip50
+\bibsep=\skip51
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count112
+)
+(D:\sofeware\CTEX\MiKTeX\tex\latex\graphics\graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(D:\sofeware\CTEX\MiKTeX\tex\latex\graphics\graphics.sty
+Package: graphics 2016/01/03 v1.0q Standard LaTeX Graphics (DPC,SPQR)
+
+(D:\sofeware\CTEX\MiKTeX\tex\latex\graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(D:\sofeware\CTEX\MiKTeX\tex\latex\00miktex\graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 95.
+
+(D:\sofeware\CTEX\MiKTeX\tex\latex\pdftex-def\pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+\Gread@gobject=\count113
+))
+\Gin@req@height=\dimen124
+\Gin@req@width=\dimen125
+)
+\c@thm=\count114
+ (rldocument.aux)
+\openout1 = `rldocument.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
 \AtBeginShipoutBox=\box28
-Package hyperref Info: Link coloring OFF on input line 47.
+Package hyperref Info: Link coloring OFF on input line 54.
 
 (D:\sofeware\CTEX\MiKTeX\tex\latex\hyperref\nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -245,70 +296,165 @@ Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 (D:\sofeware\CTEX\MiKTeX\tex\generic\oberdiek\gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count110
+\c@section@level=\count115
 )
-LaTeX Info: Redefining \ref on input line 47.
-LaTeX Info: Redefining \pageref on input line 47.
-LaTeX Info: Redefining \nameref on input line 47.
+LaTeX Info: Redefining \ref on input line 54.
+LaTeX Info: Redefining \pageref on input line 54.
+LaTeX Info: Redefining \nameref on input line 54.
 
-("New Text Document.out") ("New Text Document.out")
+(rldocument.out) (rldocument.out)
 \@outlinefile=\write3
-\openout3 = `"New Text Document.out"'.
+\openout3 = `rldocument.out'.
 
-LaTeX Font Info:    Try loading font information for U+msa on input line 49.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(28.45274pt, 540.60239pt, 28.45274pt)
+* v-part:(T,H,B)=(28.45274pt, 788.14136pt, 28.45274pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=540.60239pt
+* \textheight=788.14136pt
+* \oddsidemargin=-43.81725pt
+* \evensidemargin=-43.81725pt
+* \topmargin=-80.81725pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=57.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(D:\sofeware\CTEX\UserData\tex\context\base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count116
+\scratchdimen=\dimen126
+\scratchbox=\box29
+\nofMPsegments=\count117
+\nofMParguments=\count118
+\everyMPshowfont=\toks27
+\MPscratchCnt=\count119
+\MPscratchDim=\dimen127
+\MPnumerator=\count120
+\makeMPintoPDFobject=\count121
+\everyMPtoPDFconversion=\toks28
+) (D:\sofeware\CTEX\MiKTeX\tex\latex\oberdiek\epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(D:\sofeware\CTEX\MiKTeX\tex\latex\oberdiek\grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 56.
 
 (D:\sofeware\CTEX\MiKTeX\tex\latex\amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 49.
+LaTeX Font Info:    Try loading font information for U+msb on input line 56.
 
 (D:\sofeware\CTEX\MiKTeX\tex\latex\amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 58.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 65.
 
 (D:\sofeware\CTEX\MiKTeX\tex\latex\base\omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <9> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 58.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 65.
+
+<../graph/Bertsekas1.jpg, id=86, 517.18219pt x 530.73282pt>
+File: ../graph/Bertsekas1.jpg Graphic file (type jpg)
+
+<use ../graph/Bertsekas1.jpg>
+Package pdftex.def Info: ../graph/Bertsekas1.jpg used on input line 150.
+(pdftex.def)             Requested size: 127.9142pt x 126.47147pt.
+
+<../graph/Bertsekas2.jpg, id=87, 611.28375pt x 537.50812pt>
+File: ../graph/Bertsekas2.jpg Graphic file (type jpg)
+
+<use ../graph/Bertsekas2.jpg>
+Package pdftex.def Info: ../graph/Bertsekas2.jpg used on input line 151.
+(pdftex.def)             Requested size: 135.13576pt x 126.47025pt.
  [1
 
-{D:/sofeware/CTEX/UserData/pdftex/config/pdftex.map{UGBK.sfd}{Unicode.sfd}}] ("
-New Text Document.bbl")
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 124.
+{D:/sofeware/CTEX/UserData/pdftex/config/pdftex.map{UGBK.sfd}{Unicode.sfd}}]
+Overfull \hbox (62.96667pt too wide) in paragraph at lines 179--180
+[] 
+ []
 
-[2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 124.
- ("New Text Document.aux")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 124.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 124.
-Package rerunfilecheck Info: File `"New Text Document".out' has not changed.
-(rerunfilecheck)             Checksum: 18D74267C2CF26795FC17D8B81596CD0;352.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 124.
+
+Overfull \hbox (62.96667pt too wide) in paragraph at lines 206--207
+[] 
+ []
+
+
+Overfull \hbox (62.96667pt too wide) in paragraph at lines 230--231
+[] 
+ []
+
+
+Overfull \hbox (62.96667pt too wide) in paragraph at lines 247--248
+[] 
+ []
+
+(rldocument.bbl [2 <../graph/Bertsekas1.jpg> <../graph/Bertsekas2.jpg>])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 270.
+
+[3]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 270.
+ (rldocument.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 270.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 270.
+Package rerunfilecheck Info: File `rldocument.out' has not changed.
+(rerunfilecheck)             Checksum: FB285D18CA56929BE6107A54FE1B7CC3;1610.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 270.
  ) 
 Here is how much of TeX's memory you used:
- 5046 strings out of 495237
- 72774 string characters out of 3182224
- 152841 words of memory out of 3000000
- 8282 multiletter control sequences out of 15000+200000
- 12647 words of font info for 48 fonts, out of 3000000 for 9000
+ 6676 strings out of 495237
+ 94984 string characters out of 3182224
+ 189089 words of memory out of 3000000
+ 9849 multiletter control sequences out of 15000+200000
+ 12814 words of font info for 49 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
- 29i,8n,28p,238b,470s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 29i,8n,28p,265b,435s stack positions out of 5000i,500n,10000p,200000b,50000s
 <D:/sofeware/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><D:/sofewa
 re/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><D:/sofeware/CTEX/MiKT
 eX/fonts/type1/public/amsfonts/cm/cmbx9.pfb><D:/sofeware/CTEX/MiKTeX/fonts/type
-1/public/amsfonts/cm/cmmi6.pfb><D:/sofeware/CTEX/MiKTeX/fonts/type1/public/amsf
-onts/cm/cmmi9.pfb><D:/sofeware/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10
-.pfb><D:/sofeware/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/sofe
-ware/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><D:/sofeware/CTEX/MiK
-TeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><D:/sofeware/CTEX/MiKTeX/fonts/type
-1/public/amsfonts/cm/cmr9.pfb><D:/sofeware/CTEX/MiKTeX/fonts/type1/public/amsfo
-nts/cm/cmsy9.pfb><D:/sofeware/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmti9.
-pfb>
-Output written on "New Text Document.pdf" (2 pages, 133571 bytes).
+1/public/amsfonts/cmextra/cmex9.pfb><D:/sofeware/CTEX/MiKTeX/fonts/type1/public
+/amsfonts/cm/cmmi6.pfb><D:/sofeware/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/
+cmmi9.pfb><D:/sofeware/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:
+/sofeware/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/sofeware/CTE
+X/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><D:/sofeware/CTEX/MiKTeX/font
+s/type1/public/amsfonts/cm/cmr6.pfb><D:/sofeware/CTEX/MiKTeX/fonts/type1/public
+/amsfonts/cm/cmr9.pfb><D:/sofeware/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/c
+msy5.pfb><D:/sofeware/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><D:/
+sofeware/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy9.pfb><D:/sofeware/CTEX
+/MiKTeX/fonts/type1/public/amsfonts/cm/cmti9.pfb><D:/sofeware/CTEX/MiKTeX/fonts
+/type1/public/amsfonts/cm/cmtt9.pfb>
+Output written on rldocument.pdf (3 pages, 317976 bytes).
 PDF statistics:
- 100 PDF objects out of 1000 (max. 8388607)
- 16 named destinations out of 1000 (max. 500000)
- 49 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 194 PDF objects out of 1000 (max. 8388607)
+ 36 named destinations out of 1000 (max. 500000)
+ 163 words of extra memory for PDF output out of 10000 (max. 10000000)
 
