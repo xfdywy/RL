@@ -1,0 +1,16 @@
+[global]
+openmp=True 
+device = cpu 
+floatX = float32  
+allow_input_downcast=True  
+
+
+[nvcc]
+fastmath = False
+--flags=-LE:\software\anaconda2\libs 
+--compiler_bindir=F:\visualstudio\VC\bin\bin 
+
+[blas]
+
+ldflags = -LC:\OpenBLAS\bin  -lopenblas 
+
