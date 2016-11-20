@@ -1,0 +1,6 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Notation and Formatting}{}% 2
+\BOOKMARK [1][-]{section.3}{RL algorithms}{}% 3
+\BOOKMARK [2][-]{subsection.3.1}{Q-learning with look up table}{section.3}% 4
+\BOOKMARK [2][-]{subsection.3.2}{Q-learning with function approximation}{section.3}% 5
+\BOOKMARK [2][-]{subsection.3.3}{Q-learning with non-learning function approximation}{section.3}% 6

@@ -1,0 +1,200 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% Template for a LaTex article in English.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentclass[10pt,a4paper]{article}
+
+% AMS packages:
+\usepackage{amsmath, amsthm, amsfonts}
+\usepackage{hyperref}
+\usepackage[width=0.00cm, height=0.00cm, left=1.00cm, right=1.00cm, top=1.00cm, bottom=2.00cm]{geometry}
+\usepackage{natbib}
+\usepackage{graphicx}
+\usepackage{enumerate}
+
+% Theorems
+%-----------------------------------------------------------------
+\newtheorem{thm}{Theorem}[section]
+\newtheorem{cor}[thm]{Corollary}
+\newtheorem{lem}[thm]{Lemma}
+\newtheorem{prop}[thm]{Proposition}
+\theoremstyle{definition}
+\newtheorem{defn}[thm]{Definition}
+\theoremstyle{remark}
+\newtheorem{rem}[thm]{Remark}
+
+% Shortcuts.
+% One can define new commands to shorten frequently used
+% constructions. As an example, this defines the R and Z used
+% for the real and integer numbers.
+%-----------------------------------------------------------------
+\def\RR{\mathbb{T}}
+\def\ZZ{\mathbb{Z}}
+
+
+% Similarly, one can define commands that take arguments. In this
+% example we define a command for the absolute value.
+% -----------------------------------------------------------------
+\newcommand{\abs}[1]{\left\vert#1\right\vert}
+\newcommand{\norm}[1]{\vert\vert#1\vert\vert}
+\newcommand{\lamb}{$\lambda$}
+
+% Operators
+% New operators must defined as such to have them typeset
+% correctly. As an example we define the Jacobian:
+% -----------------------------------------------------------------
+\DeclareMathOperator{\Jac}{Bc}
+
+%-----------------------------------------------------------------
+\title{Reinforcement Learning Theory Learning \\ \textbf{my proof of non-linear function approximation with off policy control problem}}
+
+\author{Yue Wang}
+
+\begin{document}
+	\maketitle
+	
+	\abstract{	a simple note for non-linear function approximation with off policy control problem}
+	
+	\section{Introduction}
+	\label{introduction}
+	
+	RL theory is very long history and these days
+	
+	\begin{itemize}
+		\item Bullet point one
+		\item Bullet point two
+	\end{itemize}
+	
+	\begin{enumerate}
+		\item Numbered list item one
+		\item Numbered list item two
+	\end{enumerate}
+	
+	\section{Notation and Formatting}
+	\label{notation}
+	some notations: 
+	
+	\begin{center}
+		\begin{tabular}{ |c  c| } 
+			\hline
+			$ \mathcal{S} $ &    the state space \\ 
+			$ \mathcal{A} $& the action space\\
+			&\\
+		
+			$ s_t $ &    the state at time t, actual  \\ 
+			$ s $ & the state\\
+			&\\
+			
+		
+			$ r_t $ & the reward at time t, actual\\
+			$ r(s,a,s') $ & the reward from stat s take action to stat $s'$;\\
+			&\\
+			$ v_k(s) $ & the value of stat s at k iteration\\ 
+			$ v_k $ & the value function at time k iteration\\
+			
+			&\\
+			$p(s,a,s')$& the probability of transfer to $s'$ when given the current stat s and action a\\
+				
+			$p(\pi,s,a,s')$&the probability of transfer to $s'$ when given the current stat s and policy $\pi$\\	
+			
+			&\\
+			
+			$\pi$& the policy\\
+			$\pi(s,a)$& the probability of take action a given the current stat s under policy $\pi$\\
+			
+			
+			\hline
+		\end{tabular}
+	\end{center}
+	
+	
+	
+	
+	
+	
+	\section{RL algorithms}
+	\label{algorithms}
+	Q-learning is an off policy control algorithms to solve reinforcement problem. Traditional Q-learning problem can convergence to optimal Q function of each state-action pair. However when the state space is large, use look up table to store Q function of each state-action pair is inefficient. So we employ function approximation to solve this problem. The state-of-art approach is use  neural network to encode the Q-value function which is non-linear function approximation and use Q-learning algorithms to update the network parameter. 
+	
+	
+	
+
+		
+		
+		\subsection{Q-learning with look up table}
+		
+		
+			\fbox{ 
+				\parbox{\textwidth}{ 
+					\begin{center}  
+						\textbf{update rule of Q-learning:}
+					\end{center} 
+					\begin{itemize}
+						\item $  q_{k+1}=(1-\alpha)q_k(s_t,a_t)+\alpha\max\limits_b[r_t+\gamma q_k(s_{t+1},b)] $
+						
+						
+					\end{itemize}
+					
+					
+				}  
+			} 
+		
+		
+	\subsection{Q-learning with function approximation}
+				\fbox{ 
+					\parbox{\textwidth}{ 
+						\begin{center}  
+							\textbf{update rule of Q-learning with function approximation:}
+						\end{center} 
+						\begin{itemize}
+							\item	suppose we use $f_\theta(s,a)$ to denote the approximated Q-value function with parameter $ \theta $
+							
+							\item update rule $  \theta_{k+1}=\theta_{k} + \alpha_k\cdot \frac{\partial{f_\theta(s_t,a_t)}}{\partial{\theta}}\cdot [r(s,a,s')+\gamma\max\limits_{b\in \mathcal{A}}f_{\theta_t}(s_{t+1},b)-f_{\theta_t}(s_t,a_t) ]$
+							
+						\end{itemize}
+									}
+						}		
+		
+	\subsection{Q-learning with non-learning function approximation}
+		
+		First of all, we employ some notation to simplify our statement \\
+	
+		Let $f_{\theta_t}$	denotes $E\left({f_{\theta_t}(s_t,a_t)}\right) $ , 
+		
+		
+		    $g_{\theta_t}$	denotes $E\left(\max\limits_{b\in \mathcal{A}}f_{\theta_t}(s_{t+1},b)\right) $ ,
+		    
+		    
+		 $f'_\theta  $ denotes $E\left(\frac{\partial{f_\theta(s_t,a_t)}}{\partial{\theta}}\right)$ ,\\
+		 
+		 
+		  $ M_t $ denotes $\frac{\partial{f_\theta(s_t,a_t)}}{\partial{\theta}}\cdot [r(s,a,s')+\gamma\max\limits_{b\in \mathcal{A}}f_{\theta_t}(s_{t+1},b)-f_{\theta_t}(s_t,a_t) ] - f'_\theta\cdot[r+\gamma\cdot g(\theta_t)-f(\theta_t)]$\\
+
+
+		 Then the update rule become $ \theta_{t+1} = \theta_t + \alpha \cdot \{f'_\theta\cdot\left[r+\gamma\cdot g(\theta_t)-f(\theta_t)\right]+M_t \} $\\
+		 
+		 As in , we need to verify 4 conditions
+						
+		\begin{enumerate}[(1)]
+			\item $\sum_{t=1}^{\infty}\alpha_t =\infty  $    \quad $\sum_{t=1}^{\infty}\alpha_t^2<\infty$
+			\item $M_t$ is martingale difference sequence or $ E\left( M_t \right)=0   $
+			\item $ h_{\theta_t}  =f'_\theta\cdot \left[r+\gamma\cdot g(\theta_t)-f(\theta_t)\right]  $ is Lipschitz and there exist $h_\infty(\theta_t)$ such that
+			\begin{equation}
+			\lim_{n\to \infty}\frac{h\left(n\cdot\theta_t\right)}{n}=h_\infty(\theta_t)
+			\end{equation} 
+			
+			\item ODE $\dot{\theta} = h(\theta)=f'_\theta\cdot \left[r+\gamma\cdot g(\theta_t)-f(\theta_t)\right] $ has global asymptotic stability point
+		\end{enumerate}
+				
+				
+		
+	% Bibliography
+	%-----------------------------------------------------------------
+		\bibliographystyle{plainnat}
+		%\bibliographystyle{ieeetr}
+		\bibliography{../ref/sample,../ref/counterexample}
+	
+	
+\end{document}

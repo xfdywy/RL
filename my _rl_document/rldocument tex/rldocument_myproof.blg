@@ -1,0 +1,9 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: rldocument_myproof.aux
+The style file: plainnat.bst
+Database file #1: ../ref/sample.bib
+Database file #2: ../ref/counterexample.bib
+Repeated entry---line 58 of file ../ref/counterexample.bib
+ : @article{Tsitsiklis1996
+ :                        ,
+I'm skipping whatever remains of this entry
+(There was 1 error message)
