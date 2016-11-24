@@ -38,3 +38,8 @@ I am currently trying to get this to work. It seems that the code has some quirk
 
 Regards,
 
+
+
+img2text         https://github.com/tensorflow/models
+
+text2image      https://github.com/paarthneekhara/text-to-image
