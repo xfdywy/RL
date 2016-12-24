@@ -1,3 +1,5 @@
+http://www.ithao123.cn/content-8685356.html
+
 Textbook
 1.	Reinforcement Learning: An Introduction, Second edition, in progress, Richard S. Sutton and Andrew G. Barto https://www.dropbox.com/s/b3psxv2r0ccmf80/book2015oct.pdf?dl=0
  
