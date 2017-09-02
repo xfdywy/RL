@@ -1,0 +1,10 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Background and Notation}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Gradient-based TD algorithms}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Related work}{section.2}% 4
+\BOOKMARK [1][-]{section.3}{Main Theory}{}% 5
+\BOOKMARK [2][-]{subsection.3.1}{Expectation error bound for convex-concave saddle point problem}{section.3}% 6
+\BOOKMARK [2][-]{subsection.3.2}{High probability error bound for convex-concave saddle point problem}{section.3}% 7
+\BOOKMARK [2][-]{subsection.3.3}{Finite Sample Bounds for GTD Algorithms}{section.3}% 8
+\BOOKMARK [1][-]{section.4}{Experiments}{}% 9
+\BOOKMARK [1][-]{section.5}{Conclusion}{}% 10
